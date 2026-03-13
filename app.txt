@@ -1,2 +1,6 @@
 Version 1
+<<<<<<< HEAD
 Manager update
+=======
+API Code Added
+>>>>>>> feature-api
